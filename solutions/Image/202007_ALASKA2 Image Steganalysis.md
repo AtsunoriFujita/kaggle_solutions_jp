@@ -6,6 +6,7 @@
 ## Overall
 - 画像に埋め込まれた暗号化されたメッセージを検出する画像コンペ
 - プレーンな画像75k枚とそれに対応する3つのアルゴリズム（JMiPOD, JUNIWARD, UERD）で暗号が埋め込まれた画像の計30万枚,テストデータは5k枚、PublicとPrivateの比率は20:80
+- 評価指標：weighted AUC
 - Solutionは画像を使ったモデルとDCT変換を使ったモデルの組み合わせが主。リークはなかった。小さなshakeがあり、1位はpublicLBは信用してはいけないと述べた。
 
 ## 1st place solution
