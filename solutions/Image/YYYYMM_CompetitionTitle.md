@@ -6,12 +6,13 @@
 ## Overall
 - タスクの説明
 - どんなデータか、データサイズ、Public, Privateの比率など
+- 評価指標
 - 主なトピック（リーク有無、shakeの有無など）
+- 参加者数
 
 ## 1st place solution
 - ディスカッションのリンク
 - あればソースコードのリンク
-- あれば
 - 内容
 
 ## 2nd place solution
