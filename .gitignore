@@ -1,0 +1,5 @@
+/.idea
+/input/
+/src/checkpoints/
+/output/
+.DS_Store
